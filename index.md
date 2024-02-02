@@ -10,4 +10,6 @@
 ``` python
 String s="hello"
 ```
-
+- [ ] hello
+- [ ] check
+- [X] tick
